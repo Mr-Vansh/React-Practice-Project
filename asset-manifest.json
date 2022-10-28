@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-Practice-Project/static/css/main.d22c78ca.css",
+    "main.js": "/React-Practice-Project/static/js/main.bdf972c9.js",
+    "static/media/appDev.jpg": "/React-Practice-Project/static/media/appDev.374c03de4110e32e67bc.jpg",
+    "static/media/aboutImage.png": "/React-Practice-Project/static/media/aboutImage.cbeeb7ccaf9f8348bd41.png",
+    "static/media/blockChainTech.png": "/React-Practice-Project/static/media/blockChainTech.bca74fa227abc6c5b80a.png",
+    "static/media/softwareDev.jpg": "/React-Practice-Project/static/media/softwareDev.b0b92d340ba1273a5305.jpg",
+    "static/media/homeImage.png": "/React-Practice-Project/static/media/homeImage.8a80943af96f5e1c28f8.png",
+    "static/media/SEO.jpg": "/React-Practice-Project/static/media/SEO.8be22e79775e0ef05656.jpg",
+    "static/media/digitalMarket.jpg": "/React-Practice-Project/static/media/digitalMarket.079f0d4bb0cb82581801.jpg",
+    "static/media/webDev.png": "/React-Practice-Project/static/media/webDev.f9fd01979c4613762166.png",
+    "index.html": "/React-Practice-Project/index.html",
+    "main.d22c78ca.css.map": "/React-Practice-Project/static/css/main.d22c78ca.css.map",
+    "main.bdf972c9.js.map": "/React-Practice-Project/static/js/main.bdf972c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d22c78ca.css",
+    "static/js/main.bdf972c9.js"
+  ]
+}
