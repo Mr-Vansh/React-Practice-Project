@@ -1,38 +1,54 @@
-.App {
-  text-align: center;
+.navbar-brand {
+  color: #056cb1 !important;
+  font-size: 2rem !important;
+  font-weight: bold;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.navbar-nav .nav-item {
+  padding: 0 0.7rem;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+.navbar-nav .active {
+  color: #056cb1 !important;
+  font-weight: bold !important;
+  border-bottom: 1px solid #124d74 !important;
+}
+
+.nav-link {
+  font-size: 1.4rem !important;
+}
+
+.nav-link:hover {
+  color: #124d74 !important;
+}
+
+.image-container .animated {
+  animation: up-down 2s ease-in-out infinite alternate-reverse both;
+}
+
+@keyframes up-down {
+  0% {
+    transform: translateY(10px);
+  }
+  100% {
+    transform: translateY(-10px);
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+button {
+  margin-top: 20px !important;
+  padding: 10px 17px;
+  border-radius: 20px !important;
+  background-color: transparent;
+  border: 2px solid #056cb1;
+  font-size: 17px !important;
 }
 
-.App-link {
-  color: #61dafb;
+button:hover {
+  transition: all 0.5s ease;
+  background-color: #056cb1;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+button .btn-text:hover {
+  color: #fff !important;
 }
